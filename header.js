@@ -1,6 +1,7 @@
 ﻿//css
 document.getElementById("mycss").innerHTML =
-	"<link rel='stylesheet' href='/style.css'>";
+	"<link rel='stylesheet' href='/style.css'>"
+	+"<link rel='icon' type='image/png' href='/webicon.png'>";
 //header
 document.getElementById("myHead").innerHTML =
 	"<div><span class=header><img src='/logo.png' class=header> KKB通販</span></div>"
