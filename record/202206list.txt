@@ -1,0 +1,75 @@
+﻿<head>
+<title>KKB通販</title>
+<css id="mycss"></css>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+</head>
+<div class="outer">
+<header id="myHead"></header>	
+<nav id="myNav"></nav>
+  <div class="content">
+    <h1>訂單記錄</h1>
+    <div class="collapcurrent">2022年6月出貨訂單</div>
+<div class="collaplistcurrent">
+<ul>
+  <li class='orderlist'><b>訂單日期　　　　　訂單編號</b></li>
+<li class='orderlist'><a href='/record/202206/202206026609/' class='orderlist'>2022-01-01　　　　2022-06-026609</a></li>
+<li class='orderlist'><a href='/record/202206/202206646726/' class='orderlist'>2022-02-10　　　　2022-06-646726</a></li>
+<li class='orderlist'><a href='/record/202206/202206510468/' class='orderlist'>2022-02-17　　　　2022-06-510468</a></li>
+<li class='orderlist'><a href='/record/202206/202206002617/' class='orderlist'>2022-02-27　　　　2022-06-002617</a></li>
+<li class='orderlist'><a href='/record/202206/202206756526/' class='orderlist'>2022-02-27　　　　2022-06-756526</a></li>
+<li class='orderlist'><a href='/record/202206/202206756526/' class='orderlist'>2022-02-27　　　　2022-06-756526</a></li>
+<li class='orderlist'><a href='/record/202206/202206139732/' class='orderlist'>2022-03-12　　　　2022-06-139732</a></li>
+<li class='orderlist'><a href='/record/202206/202206166443/' class='orderlist'>2022-03-14　　　　2022-06-166443</a></li>
+<li class='orderlist'><a href='/record/202206/202206354812/' class='orderlist'>2022-03-16　　　　2022-06-354812</a></li>
+<li class='orderlist'><a href='/record/202206/202206325883/' class='orderlist'>2022-03-25　　　　2022-06-325883</a></li>
+<li class='orderlist'><a href='/record/202206/202206828902/' class='orderlist'>2022-03-27　　　　2022-06-828902</a></li>
+<li class='orderlist'><a href='/record/202206/202206963886/' class='orderlist'>2022-03-30　　　　2022-06-963886</a></li>
+<li class='orderlist'><a href='/record/202206/202206442326/' class='orderlist'>2022-03-31　　　　2022-06-442326</a></li>
+<li class='orderlist'><a href='/record/202206/202206455734/' class='orderlist'>2022-03-31　　　　2022-06-455734</a></li>
+<li class='orderlist'><a href='/record/202206/202206184859/' class='orderlist'>2022-04-08　　　　2022-06-184859</a></li>
+<li class='orderlist'><a href='/record/202206/202206277457/' class='orderlist'>2022-04-10　　　　2022-06-277457</a></li>
+<li class='orderlist'><a href='/record/202206/202206363366/' class='orderlist'>2022-04-15　　　　2022-06-363366</a></li>
+<li class='orderlist'><a href='/record/202206/202206642242/' class='orderlist'>2022-04-17　　　　2022-06-642242</a></li>
+<li class='orderlist'><a href='/record/202206/202206992229/' class='orderlist'>2022-04-17　　　　2022-06-992229</a></li>
+<li class='orderlist'><a href='/record/202206/202206210612/' class='orderlist'>2022-04-19　　　　2022-06-210612</a></li>
+<li class='orderlist'><a href='/record/202206/202206037739/' class='orderlist'>2022-04-27　　　　2022-06-037739</a></li>
+<li class='orderlist'><a href='/record/202206/202206997585/' class='orderlist'>2022-04-30　　　　2022-06-997585</a></li>
+<li class='orderlist'><a href='/record/202206/202206608091/' class='orderlist'>2022-05-13　　　　2022-06-608091</a></li>
+<li class='orderlist'><a href='/record/202206/202206745819/' class='orderlist'>2022-05-25　　　　2022-06-745819</a></li>
+<li class='orderlist'><a href='/record/202206/202206423866/' class='orderlist'>2022-06-01　　　　2022-06-423866</a></li>
+<li class='orderlist'><a href='/record/202206/202206475019/' class='orderlist'>2022-06-01　　　　2022-06-475019</a></li>
+<li class='orderlist'><a href='/record/202206/202206852156/' class='orderlist'>2022-06-03　　　　2022-06-852156</a></li>
+<li class='orderlist'><a href='/record/202206/202206180046/' class='orderlist'>2022-06-03　　　　2022-06-180046</a></li>
+<li class='orderlist'><a href='/record/202206/202206350865/' class='orderlist'>2022-06-05　　　　2022-06-350865</a></li>
+<li class='orderlist'><a href='/record/202206/202206865554/' class='orderlist'>2022-06-05　　　　2022-06-865554</a></li>
+<li class='orderlist'><a href='/record/202206/202206519077/' class='orderlist'>2022-06-05　　　　2022-06-519077</a></li>
+<li class='orderlist'><a href='/record/202206/202206454535/' class='orderlist'>2022-06-05　　　　2022-06-454535</a></li>
+<li class='orderlist'><a href='/record/202206/202206728525/' class='orderlist'>2022-06-05　　　　2022-06-728525</a></li>
+<li class='orderlist'><a href='/record/202206/202206685768/' class='orderlist'>2022-06-05　　　　2022-06-685768</a></li>
+<li class='orderlist'><a href='/record/202206/202206254247/' class='orderlist'>2022-06-06　　　　2022-06-254247</a></li>
+<li class='orderlist'><a href='/record/202206/202206973065/' class='orderlist'>2022-06-06　　　　2022-06-973065</a></li>
+<li class='orderlist'><a href='/record/202206/202206195870/' class='orderlist'>2022-06-06　　　　2022-06-195870</a></li>
+<li class='orderlist'><a href='/record/202206/202206506803/' class='orderlist'>2022-06-07　　　　2022-06-506803</a></li>
+<li class='orderlist'><a href='/record/202206/202206184859/' class='orderlist'>2022-06-07　　　　2022-06-184859</a></li>
+<li class='orderlist'><a href='/record/202206/202206313101/' class='orderlist'>2022-06-08　　　　2022-06-313101</a></li>
+<li class='orderlist'><a href='/record/202206/202206017753/' class='orderlist'>2022-06-08　　　　2022-06-017753</a></li>
+<li class='orderlist'><a href='/record/202206/202206731308/' class='orderlist'>2022-06-10　　　　2022-06-731308</a></li>
+<li class='orderlist'><a href='/record/202206/202206040981/' class='orderlist'>2022-06-11　　　　2022-06-040981</a></li>
+<li class='orderlist'><a href='/record/202206/202206277457/' class='orderlist'>2022-06-11　　　　2022-06-277457</a></li>
+<li class='orderlist'><a href='/record/202206/202206171248/' class='orderlist'>2022-06-13　　　　2022-06-171248</a></li>
+<li class='orderlist'><a href='/record/202206/202206089432/' class='orderlist'>2022-06-13　　　　2022-06-089432</a></li>
+<li class='orderlist'><a href='/record/202206/202206371204/' class='orderlist'>2022-06-14　　　　2022-06-371204</a></li>
+<li class='orderlist'><a href='/record/202206/202206008617/' class='orderlist'>2022-06-15　　　　2022-06-008617</a></li>
+<li class='orderlist'><a href='/record/202206/202206708371/' class='orderlist'>2022-06-18　　　　2022-06-708371</a></li>
+<li class='orderlist'><a href='/record/202206/202206510468/' class='orderlist'>2022-06-19　　　　2022-06-510468</a></li>
+<li class='orderlist'><a href='/record/202206/202206783264/' class='orderlist'>2022-06-19　　　　2022-06-783264</a></li>
+<li class='orderlist'><a href='/record/202206/202206942044/' class='orderlist'>2022-06-21　　　　2022-06-942044</a></li>
+<li class='orderlist'><a href='/record/202206/202206075455/' class='orderlist'>2022-06-22　　　　2022-06-075455</a></li>
+
+</ul>
+</div>
+
+</div>
+<center><footer id="myFooter"></footer></center>
+</div>
+<script src="/header.js"></script>
