@@ -6,7 +6,7 @@ document.getElementById("mycss").innerHTML =
 document.getElementById("myHead").innerHTML =
 	"<div><span class=header><img src='/logo.png' class=header> KKB通販</span></div>"
 document.getElementById("myNav").innerHTML =
-	"<div style='height:30px; background-color:#FFFF00;'><b><a href='/cov.html'>暫停所有交收通知(面交/郵寄/SF寄件)</a></b></div>"
+	"<div style='height:50px; background-color:#FFFF00;'><b><span style='font-size: 30px; vertical-align:middle'><a href='/cov.html'><center>暫停所有交收通知(面交/郵寄/SF寄件)</center></a></span></b></div>"
 + "<ul id='navLinks'>"
 	+ "<li><a href='/record/'>查單</a></li>"
 	+ "<li><a href='https://www.kkbee.net/depo' target='_blank'>入訂填表</a>"
