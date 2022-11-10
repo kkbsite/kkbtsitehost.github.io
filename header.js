@@ -6,7 +6,8 @@ document.getElementById("mycss").innerHTML =
 document.getElementById("myHead").innerHTML =
 	"<div><span class=header><img src='/logo.png' class=header> KKB通販</span></div>"
 document.getElementById("myNav").innerHTML =
-	"<ul id='navLinks'>"
+	"<div><b><span style='height:30px; background-color:#FFFF00;'><a href='/cov.html'>暫停所有交收通知(面交/郵寄/SF寄件)</a></span></b></div>"
++ "<ul id='navLinks'>"
 	+ "<li><a href='/record/'>查單</a></li>"
 	+ "<li><a href='https://www.kkbee.net/depo' target='_blank'>入訂填表</a>"
 	+ "<li><a href='/yahooauc/'>日拍/販售App代購</a></li>"
@@ -34,3 +35,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 };
+
