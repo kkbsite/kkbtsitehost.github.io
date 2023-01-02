@@ -1,4 +1,7 @@
-﻿//css
+﻿<html>
+<div style="height:50px; background-color:#FFFF00; border:" ></div>
+</html>
+//css
 document.getElementById("mycss").innerHTML =
 	"<link rel='stylesheet' href='/style.css'>"
 	+"<link rel='icon' type='image/png' href='/webicon.png'>";
@@ -6,7 +9,8 @@ document.getElementById("mycss").innerHTML =
 document.getElementById("myHead").innerHTML =
 	"<div><span class=header><img src='/logo.png' class=header> KKB通販</span></div>"
 document.getElementById("myNav").innerHTML =
-	"<div style='height:50px; background-color:#FFFF00;'><b><span style='font-size: 30px; vertical-align:middle'><a href='/cov.html'><center>所有交收(面交/郵寄/SF寄件)恢復</center></a></span></b></div>"
+	"<div style='height:50px; background-color: #FFFFCC; border: solid 3px #FFCC33; width:350px; display: inline-block'><b><span style='font-size: 30px; vertical-align:middle'><a href='/oct.html'><center>23年2月1日起停收八達通</center></a></span></b></div>
+<div style='height:50px; background-color: #FFFFCC; border: solid 3px #FFCC33; width:350px; display: inline-block'><b><span style='font-size: 30px; vertical-align:middle'><a href='/done.html'><center>結業通知</center></a></span></b></div>"
 + "<ul id='navLinks'>"
 	+ "<li><a href='/record/'>查單</a></li>"
 	+ "<li><a href='https://www.kkbee.net/depo' target='_blank'>入訂填表</a>"
@@ -35,4 +39,3 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 };
-
