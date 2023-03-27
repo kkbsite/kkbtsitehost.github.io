@@ -1,0 +1,35 @@
+﻿<head>
+<title>KKB通販</title>
+<css id="mycss"></css>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+</head>
+<div class="outer">
+<header id="myHead"></header>	
+<nav id="myNav"></nav>
+  <div class="content">
+    <h1>訂單記錄</h1>
+    <div class="collapcurrent">2023年02月出貨訂單</div>
+<div class="collaplistcurrent">
+<ul>
+  <li class='orderlist'><b>訂單日期　　　　　訂單編號</b></li>
+<li class='orderlist'><a href='/record/202302/202302094306/' class='orderlist'>2022-08-11　　　　2023-02-094306</a></li>
+<li class='orderlist'><a href='/record/202302/202302731308/' class='orderlist'>2023-02-01　　　　2023-02-731308</a></li>
+<li class='orderlist'><a href='/record/202302/202302828902/' class='orderlist'>2023-02-01　　　　2023-02-828902</a></li>
+<li class='orderlist'><a href='/record/202302/202302506737/' class='orderlist'>2023-02-03　　　　2023-02-506737</a></li>
+<li class='orderlist'><a href='/record/202302/202302993358/' class='orderlist'>2023-02-03　　　　2023-02-993358</a></li>
+<li class='orderlist'><a href='/record/202302/202302659394/' class='orderlist'>2023-02-04　　　　2023-02-659394</a></li>
+<li class='orderlist'><a href='/record/202302/202302008617/' class='orderlist'>2023-02-06　　　　2023-02-008617</a></li>
+<li class='orderlist'><a href='/record/202302/202302044751/' class='orderlist'>2023-02-06　　　　2023-02-044751</a></li>
+<li class='orderlist'><a href='/record/202302/202302254247/' class='orderlist'>2023-02-08　　　　2023-02-254247</a></li>
+<li class='orderlist'><a href='/record/202302/202302506803/' class='orderlist'>2023-02-08　　　　2023-02-506803</a></li>
+<li class='orderlist'><a href='/record/202302/202302298297/' class='orderlist'>2023-02-10　　　　2023-02-298297</a></li>
+<li class='orderlist'><a href='/record/202302/202302195870/' class='orderlist'>2023-02-15　　　　2023-02-195870</a></li>
+<li class='orderlist'><a href='/record/202302/202302442085/' class='orderlist'>2023-02-17　　　　2023-02-442085</a></li>
+<li class='orderlist'><a href='/record/202302/202302026609/' class='orderlist'>2023-03-04　　　　2023-02-026609</a></li>
+</ul>
+</div>
+
+</div>
+<center><footer id="myFooter"></footer></center>
+</div>
+<script src="/header.js"></script>
