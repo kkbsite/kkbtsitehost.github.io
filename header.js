@@ -10,7 +10,6 @@ document.getElementById("myNav").innerHTML =
 "<div style='height:35px; background-color: #FFFFCC; border: 3px solid #FFCC33; width:340px; display: inline-block;'><b><span style='font-size: 20px; vertical-align:middle'><a href='/oct.html'><center>23年2月1日起停收八達通</center></a></span></b></div>　<div style='height:35px; background-color: #FFFFCC; border: 3px solid #FFCC33; width:470px; display: inline-block;'><b><span style='font-size: 20px; vertical-align:middle'><a href='/done.html'><center>結業通知（落單、面交及郵寄、退款安排）</center></a></span></b></div><br><br>"
 	+ "<ul id='navLinks'>"
 	+ "<li><a href='/record/'>查單</a></li>"
-	+ "<li><a href='https://www.kkbee.net/depo' target='_blank'>入訂填表</a>"
 	+ "<li><a href='/yahooauc/'>日拍/販售App代購</a></li>"
 	+ "<li><a href='/tsuuhan/'>一般通販代購</a>"
 	+ "<li><a href='/time/'>交收時間表</a></li>"
