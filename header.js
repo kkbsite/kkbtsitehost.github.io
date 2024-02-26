@@ -15,9 +15,7 @@ document.getElementById("myNav").innerHTML =
 
 document.getElementById("myFooter").innerHTML =
 	"<p id='copyright'>Copyright &copy; " + new Date().getFullYear() + " KKB TSUUHAN. All"
-	+ " rights reserved. <a href='/terms/'>Terms & Conditions, Refund & return, Privacy Policy</a></p>"
-	+ "<p id='contact'><a href='mailto:kkb.tsuuhan@gmail.com'>mail Us</a> / "
-	+ "<a href='https://wa.me/85261431227'>Whatsapp us</a></p>";
+	+ " rights reserved.</p>";
 
 //orderlist
 var coll = document.getElementsByClassName("collap");
